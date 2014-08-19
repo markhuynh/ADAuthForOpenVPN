@@ -1,5 +1,5 @@
 # Intro #
-This console program is used with OpenVPN to authenticate Active Directory users.
+This exe console program is used with OpenVPN (on Windows) to authenticate Active Directory users.
 
 # Usage #
 1. Download the zip file [here](https://github.com/markhuynh/ADAuthForOpenVPN/releases/download/1.0/ADAuthForOpenVPN.zip).
